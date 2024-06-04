@@ -1,0 +1,51 @@
+{
+  "logoType": "imagePath",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "Система/Вложенные файлы/logo_png.png",
+    "imageLink": ""
+  },
+  "logoScale": 1.8,
+  "iconColorType": "default",
+  "wordmark": "STUDENT",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": true,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Полезный материал/Книги/Основы алгоритмизации.pdf",
+      "timestamp": 1717316403168
+    },
+    {
+      "filepath": "Система/Вложенные файлы/Structur_Tree.png",
+      "timestamp": 1717316366826
+    },
+    {
+      "filepath": "Система/Вложенные файлы/sql.pdf",
+      "timestamp": 1717315201669
+    },
+    {
+      "filepath": "Система/Вложенные файлы/Stack.png",
+      "timestamp": 1717315200749
+    },
+    {
+      "filepath": "Система/Вложенные файлы/1.png",
+      "timestamp": 1717315197076
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": true
+}
