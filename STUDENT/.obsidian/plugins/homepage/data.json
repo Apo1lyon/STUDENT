@@ -9,14 +9,14 @@
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
       "revertView": true,
-      "openWhenEmpty": false,
+      "openWhenEmpty": true,
       "refreshDataview": false,
       "autoCreate": true,
       "autoScroll": false,
-      "pin": false,
+      "pin": true,
       "commands": [],
-      "alwaysApply": false,
-      "hideReleaseNotes": false
+      "alwaysApply": true,
+      "hideReleaseNotes": true
     }
   },
   "separateMobile": false
