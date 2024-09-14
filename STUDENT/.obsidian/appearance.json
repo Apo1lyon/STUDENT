@@ -1,4 +1,12 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Obsidian Nord"
+  "cssTheme": "Things",
+  "enabledCssSnippets": [
+    "style",
+    "Dashboard"
+  ],
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "accentColor": "#914ce6",
+  "baseFontSize": 14
 }

@@ -14,5 +14,10 @@
   },
   "defaultViewMode": "preview",
   "tabSize": 4,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showRibbon": true,
+  "foldIndent": true,
+  "useTab": true,
+  "propertiesInDocument": "hidden",
+  "strictLineBreaks": false
 }
