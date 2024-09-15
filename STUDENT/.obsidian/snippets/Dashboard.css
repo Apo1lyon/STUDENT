@@ -22,18 +22,6 @@
     padding-bottom: 3px !important;
 }
 
-.two-column-container {
-    display: flex;
-    flex-direction: row;
-    /* Если хотите равные колонки, добавьте: */
-    justify-content: space-between;
-}
-
-.column {
-    flex: 1;
-    padding: 10px;
-}
-
 .dashboard div > ul {
     list-style: none;
     display: flex;

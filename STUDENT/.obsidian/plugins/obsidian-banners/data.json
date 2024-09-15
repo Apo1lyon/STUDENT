@@ -14,6 +14,6 @@
   "useTwemoji": true,
   "showPreviewInLocalModal": true,
   "localSuggestionsLimit": null,
-  "bannersFolder": null,
+  "bannersFolder": "Система/Вложенные файлы/Баннеры",
   "allowMobileDrag": false
 }
