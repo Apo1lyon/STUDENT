@@ -1,1 +1,17 @@
-{}
+{
+	"nodes":[
+		{"id":"3396bebe44b11d39","type":"text","text":"<center>Начало пары","x":-380,"y":-800,"width":250,"height":60,"color":"4"},
+		{"id":"69cb69552deeb6f4","type":"file","file":"Информационные технологии/Второй курс/Основы алгоритмизации и программирования/Лекции/Перегрузка операторов.md","x":-330,"y":-660,"width":400,"height":400,"color":"4"},
+		{"id":"dd38e406abdf62e1","type":"file","file":"Информационные технологии/Второй курс/Основы алгоритмизации и программирования/Практические задания для Python/Задание. Перегрузка операторов.md","x":20,"y":-80,"width":400,"height":400,"color":"4"},
+		{"id":"da49cbe9b5a71d6e","type":"text","text":"```python\n\n# Ваш код\n\ninput()\n```\n","x":540,"y":20,"width":300,"height":140,"color":"4"},
+		{"id":"b86a89bd6e66e73b","type":"text","text":"Прикрепите сделанную практическую работу в «Общие материалы» со своей фамилией и названием задания ","x":-20,"y":380,"width":279,"height":106,"color":"4"},
+		{"id":"0f112792e5be6aba","x":-514,"y":-2,"width":400,"height":400,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 306/Практические задания/virus2.py"},
+		{"id":"9bd1b2c90321444c","x":-780,"y":-480,"width":400,"height":400,"type":"file","file":"Интерактивная среда/Общие материалы/Материал группы 306/Практические задания/virus4.py"}
+	],
+	"edges":[
+		{"id":"1f099f4f96525280","fromNode":"3396bebe44b11d39","fromSide":"bottom","toNode":"69cb69552deeb6f4","toSide":"top","color":"4"},
+		{"id":"261ca7cb27528ad6","fromNode":"dd38e406abdf62e1","fromSide":"bottom","toNode":"b86a89bd6e66e73b","toSide":"top","color":"4"},
+		{"id":"667fa6b70c97bbc0","fromNode":"69cb69552deeb6f4","fromSide":"bottom","toNode":"dd38e406abdf62e1","toSide":"top","color":"4","label":"Выполнить практическое задание"},
+		{"id":"15497171c46fd819","fromNode":"dd38e406abdf62e1","fromSide":"right","toNode":"da49cbe9b5a71d6e","toSide":"left","color":"4"}
+	]
+}

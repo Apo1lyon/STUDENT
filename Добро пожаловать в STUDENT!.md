@@ -18,7 +18,7 @@ TABLE WITHOUT ID
 Лекция, 
 Задание, Дежурные
 from "Полезный материал/Расписание"
-WHERE file.day >= date(today) - dur(3 day)
+WHERE file.day >= date(today) - dur(2 day)
 sort Дата asc
 ```
 
