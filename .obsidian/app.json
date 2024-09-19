@@ -3,7 +3,9 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "Система/Вложенные файлы",
-  "userIgnoreFilters": [],
+  "userIgnoreFilters": [
+    "README"
+  ],
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,

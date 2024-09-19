@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcCircleSlash24",
       "OcHome16",
       "OcArchive24",
       "OcHourglass16",
-      "OcInfinity24",
-      "OcMortarBoard16"
+      "OcInfinity24"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -71,5 +71,6 @@
   "Мануал по использованию STUDENT.md": "OcHourglass16",
   "Интерактивная среда/Общие материалы": "OcArchive24",
   "Добро пожаловать в STUDENT!.md": "OcHome16",
-  "Полезный материал/Правила": "OcRepoPull16"
+  "Полезный материал/Правила": "OcRepoPull16",
+  "Полезный материал/Библиотека/Прочее": "OcCircleSlash24"
 }
