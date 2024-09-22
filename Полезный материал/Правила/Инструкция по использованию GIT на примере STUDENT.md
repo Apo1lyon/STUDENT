@@ -29,9 +29,9 @@ tags:
 
 3. После запуска выберите «*Clone of repository from the Intertet..*.» и выберите вкладку URL
 
-![[Pasted image 20240919133026.png]]
+![[Pasted image 20240920093946.png]]
 
-4. В строчке «*Repository URL*» вставьте ссылку на STUDENT: https://github.com/Apo1lyon/STUDENT.git
+4. В строчке «*Repository URL*» вставьте ссылку на STUDENT: https://github.com/IT-Student-Education-RU/STUDENT.git
 5. В «*Local path*» выберите удобную для вас папку (Важно! Папка должна быть пустой). 
 6. Нажмите «*Clone*» и ждите окончания загрузки STUDENT
 
